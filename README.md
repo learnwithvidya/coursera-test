@@ -1,2 +1,2 @@
 # coursera-test
-HTML-Coursera test repository 
+HTML-CSS-Javascript-Coursera repository 
